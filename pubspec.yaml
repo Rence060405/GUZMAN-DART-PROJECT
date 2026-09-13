@@ -1,0 +1,11 @@
+name: trivia_workspace
+environment:
+  sdk: '^3.8.1'
+
+workspace:
+  - terminal_colors
+  - trivia_api
+  - trivia_cli
+
+dev_dependencies:
+  lints: ^5.0.0
